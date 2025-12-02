@@ -1,0 +1,333 @@
+[
+  {
+    "id": "1",
+    "title": "PUBG Mobile",
+    "coverPhoto": "https://i.ibb.co.com/s9BJDVNb/image.png",
+    "category": "Battle Royale",
+    "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
+    "description": "PUBG Mobile is a fast-paced battle royale game where players fight for survival, strategy, and victory on dynamic maps.",
+    "ratings": "4.5",
+    "developer": "Krafton",
+    "developerUrl": "https://i.ibb.co.com/CpHWz9q5/460156868-2055238444933283-3867974364082540475-n-1.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Clash of Clans",
+    "coverPhoto": "https://i.ibb.co.com/5hwHzKrz/coc.webp",
+    "category": "Strategy",
+    "downloadLink": "https://supercell.com/en/games/clashofclans/",
+    "description": "Build your base, train troops, and lead your clan to victory in epic clan wars.",
+    "ratings": "4.7",
+    "developer": "Supercell",
+    "developerUrl": "https://i.ibb.co.com/1fQ8X3mY/user2-d0f071c5.png"
+  },
+  {
+    "id": "3",
+    "title": "Free Fire",
+    "coverPhoto": "https://i.ibb.co.com/5WXJfw93/free.jpg",
+    "category": "Battle Royale",
+    "downloadLink": "https://ff.garena.com/",
+    "description": "An intense survival shooter game with quick 10-minute matches.",
+    "ratings": "4.4",
+    "developer": "Garena",
+    "developerUrl": "https://i.ibb.co.com/G42DHMRm/user3-ea7e55ec.png"
+  },
+  {
+    "id": "4",
+    "title": "WarZone Tactics",
+    "coverPhoto": "https://i.ibb.co.com/YTYgTDgc/image.jpg",
+    "category": "FPS",
+    "downloadLink": "https://example.com/warzone-tactics",
+    "description": "Modern warfare FPS where tactics and accuracy determine victory.",
+    "ratings": "4.3",
+    "developer": "WarDev Studio",
+    "developerUrl": "https://i.ibb.co.com/7JK4fdH0/user5-d322c5b6.png"
+  },
+  {
+    "id": "5",
+    "title": "Sky Base Defense",
+    "coverPhoto": "https://i.ibb.co.com/8n2n9WVW/gallery-Photo4-8713bad1.png",
+    "category": "Strategy",
+    "downloadLink": "https://example.com/skybase-defense",
+    "description": "Build your sky empire and defend it with elite units and tactics.",
+    "ratings": "4.2",
+    "developer": "Skybound Games",
+    "developerUrl": "https://i.ibb.co.com/BH06F0wZ/user6-7aed182c.png"
+  },
+  {
+    "id": "6",
+    "title": "Operation Reload",
+    "coverPhoto": "https://i.ibb.co.com/ZpZtT6yS/gallery-Photo6-5a523168.png",
+    "category": "FPS",
+    "downloadLink": "https://example.com/operation-reload",
+    "description": "High-speed tactical shooter with advanced weaponry.",
+    "ratings": "4.1",
+    "developer": "ReloadX",
+    "developerUrl": "https://i.ibb.co.com/qYJJSVNc/user7-03d28ae5.png"
+  },
+  {
+    "id": "7",
+    "title": "Strategic Dominance",
+    "coverPhoto": "https://i.ibb.co.com/20Lvz818/group1-5d74ee04.png",
+    "category": "Strategy",
+    "downloadLink": "https://example.com/strategic-dominance",
+    "description": "Outwit and outmaneuver your enemies in large-scale strategic battles.",
+    "ratings": "4.3",
+    "developer": "Dominion Games",
+    "developerUrl": "https://i.ibb.co.com/JW2Cm9pw/user8-e6a373c8.png"
+  },
+  {
+    "id": "8",
+    "title": "Elite Ops",
+    "coverPhoto": "https://i.ibb.co.com/twy8b74Y/group2-7060329f.png",
+    "category": "FPS",
+    "downloadLink": "https://example.com/elite-ops",
+    "description": "Join the elite task force in this close-quarter FPS action.",
+    "ratings": "4.6",
+    "developer": "BlackCell",
+    "developerUrl": "https://i.ibb.co.com/84ckpm0L/user9-5f1841e2.png"
+  },
+  {
+    "id": "9",
+    "title": "Survivor's Land",
+    "coverPhoto": "https://i.ibb.co.com/39gvQf9C/group6-271563af.png",
+    "category": "Battle Royale",
+    "downloadLink": "https://example.com/survivorsland",
+    "description": "Land, loot, and eliminate in massive open-world battlegrounds.",
+    "ratings": "4.4",
+    "developer": "NextZone",
+    "developerUrl": "https://i.ibb.co.com/4n0HmNPh/user10-5e95248c.png"
+  },
+  {
+    "id": "10",
+    "title": "Battle Commander",
+    "coverPhoto": "https://i.ibb.co.com/v4nbKQy7/group7-62fafd80.png",
+    "category": "Strategy",
+    "downloadLink": "https://example.com/battlecommander",
+    "description": "Command armies and crush enemies in this epic strategy war game.",
+    "ratings": "4.5",
+    "developer": "IronSight Studios",
+    "developerUrl": "https://i.ibb.co.com/CpHWz9q5/460156868-2055238444933283-3867974364082540475-n-1.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Last One Standing",
+    "coverPhoto": "https://i.ibb.co.com/NgjYs4qJ/group8-d1961745.png",
+    "category": "Battle Royale",
+    "downloadLink": "https://example.com/lastonestanding",
+    "description": "Drop in, gear up, and survive till the end.",
+    "ratings": "4.2",
+    "developer": "ZeroPoint",
+    "developerUrl": "https://i.ibb.co.com/CpHWz9q5/460156868-2055238444933283-3867974364082540475-n-1.jpg"
+  },
+  {
+    "id": "12",
+    "title": "Tactical Front",
+    "coverPhoto": "https://i.ibb.co.com/pBF3nsbg/marketplace1-384f4b18.png",
+    "category": "FPS",
+    "downloadLink": "https://example.com/tactical-front",
+    "description": "Frontline combat in war-torn zones using advanced tactics.",
+    "ratings": "4.0",
+    "developer": "StrikeCore",
+    "developerUrl": "https://i.ibb.co.com/CpHWz9q5/460156868-2055238444933283-3867974364082540475-n-1.jpg"
+  },
+  {
+    "id": "13",
+    "title": "Warlords of Strategy",
+    "coverPhoto": "https://i.ibb.co.com/76tkbYf/marketplace2-49b678bd.png",
+    "category": "Strategy",
+    "downloadLink": "https://example.com/warlords",
+    "description": "Turn-based strategy with dynamic weather and terrain systems.",
+    "ratings": "4.1",
+    "developer": "Command Studio",
+    "developerUrl": "https://i.ibb.co.com/CpHWz9q5/460156868-2055238444933283-3867974364082540475-n-1.jpg"
+  },
+  {
+    "id": "14",
+    "title": "Drop Zone",
+    "coverPhoto": "https://i.ibb.co.com/NvW2Gyz/marketplace3-93b2204a.png",
+    "category": "Battle Royale",
+    "downloadLink": "https://example.com/dropzone",
+    "description": "Land fast, loot quick, and outlast your enemies.",
+    "ratings": "4.3",
+    "developer": "DropDev",
+    "developerUrl": "https://i.ibb.co.com/CpHWz9q5/460156868-2055238444933283-3867974364082540475-n-1.jpg"
+  },
+  {
+    "id": "15",
+    "title": "Rapid Fire Elite",
+    "coverPhoto": "https://i.ibb.co.com/mrGYN5Gb/marketplace4-d92ae1ed.png",
+    "category": "FPS",
+    "downloadLink": "https://example.com/rapidfire",
+    "description": "Intense multiplayer shooting game with ranked matchmaking.",
+    "ratings": "4.6",
+    "developer": "SniperCode",
+    "developerUrl": "https://i.ibb.co.com/CpHWz9q5/460156868-2055238444933283-3867974364082540475-n-1.jpg"
+  },{
+    "id": "16",
+    "title": "Iron Defense",
+    "coverPhoto": "https://i.ibb.co.com/RkcGdHtk/marketplace5-d676ff7a.png",
+    "category": "Strategy",
+    "downloadLink": "https://example.com/irondefense",
+    "description": "Build impenetrable fortresses and dominate the battlefield.",
+    "ratings": "4.2",
+    "developer": "FortCore Games",
+    "developerUrl": "https://i.ibb.co.com/1fQ8X3mY/user2-d0f071c5.png"
+  },
+  {
+    "id": "17",
+    "title": "Ghost Raid",
+    "coverPhoto": "https://i.ibb.co.com/rRCXGZzQ/marketplace6-877a71bf.png",
+    "category": "FPS",
+    "downloadLink": "https://example.com/ghostraids",
+    "description": "Silent infiltration and tactical take-downs in enemy territory.",
+    "ratings": "4.5",
+    "developer": "ShadowOps",
+    "developerUrl": "https://i.ibb.co.com/G42DHMRm/user3-ea7e55ec.png"
+  },
+  {
+    "id": "18",
+    "title": "Zero Survivors",
+    "coverPhoto": "https://i.ibb.co.com/zpSRT1q/marketplace7-5773f57e.png",
+    "category": "Battle Royale",
+    "downloadLink": "https://example.com/zerosurvivors",
+    "description": "Drop, scavenge, and fight to be the last survivor.",
+    "ratings": "4.3",
+    "developer": "EndZone Games",
+    "developerUrl": "https://i.ibb.co.com/7JK4fdH0/user5-d322c5b6.png"
+  },
+  {
+    "id": "19",
+    "title": "Command Clash",
+    "coverPhoto": "https://i.ibb.co.com/7t51Mv3b/marketplace9-455b84cf.png",
+    "category": "Strategy",
+    "downloadLink": "https://example.com/commandclash",
+    "description": "Lead your army through historic and modern warfare scenarios.",
+    "ratings": "4.1",
+    "developer": "Strategic Minds",
+    "developerUrl": "https://i.ibb.co.com/BH06F0wZ/user6-7aed182c.png"
+  },
+  {
+    "id": "20",
+    "title": "Hardpoint Zero",
+    "coverPhoto": "https://i.ibb.co.com/21YBY3MT/marketplace10-de8af24a.png",
+    "category": "FPS",
+    "downloadLink": "https://example.com/hardpointzero",
+    "description": "Fast-paced objective-based shooting with advanced mechanics.",
+    "ratings": "4.4",
+    "developer": "ZeroSoft",
+    "developerUrl": "https://i.ibb.co.com/qYJJSVNc/user7-03d28ae5.png"
+  },
+  {
+    "id": "21",
+    "title": "Last Fort Standing",
+    "coverPhoto": "https://i.ibb.co.com/prnrXFQn/marketplace12-1e1c020a.png",
+    "category": "Strategy",
+    "downloadLink": "https://example.com/lastfort",
+    "description": "Defend your last base from endless waves of enemies.",
+    "ratings": "4.0",
+    "developer": "Defense Studio",
+    "developerUrl": "https://i.ibb.co.com/JW2Cm9pw/user8-e6a373c8.png"
+  },
+  {
+    "id": "22",
+    "title": "Quick Trigger",
+    "coverPhoto": "https://i.ibb.co.com/fYHNCNmb/session6-176d6ac2.png",
+    "category": "FPS",
+    "downloadLink": "https://example.com/quicktrigger",
+    "description": "A lightning-fast shooter with tight controls and realistic guns.",
+    "ratings": "4.7",
+    "developer": "FireTap Games",
+    "developerUrl": "https://i.ibb.co.com/84ckpm0L/user9-5f1841e2.png"
+  },
+  {
+    "id": "23",
+    "title": "Kingdom Clash",
+    "coverPhoto": "https://i.ibb.co.com/ynZpqJsp/thumbnail1-e5349626.png",
+    "category": "Strategy",
+    "downloadLink": "https://example.com/kingdomclash",
+    "description": "Control vast armies and expand your empire through smart tactics.",
+    "ratings": "4.3",
+    "developer": "Crown Studios",
+    "developerUrl": "https://i.ibb.co.com/4n0HmNPh/user10-5e95248c.png"
+  },
+  {
+    "id": "24",
+    "title": "No Man’s Zone",
+    "coverPhoto": "https://i.ibb.co.com/tp8KXZCJ/trending-Player-Thumb-d4d8e673.png",
+    "category": "Battle Royale",
+    "downloadLink": "https://example.com/nomanszone",
+    "description": "Huge map. 100 players. Only one survives.",
+    "ratings": "4.5",
+    "developer": "WildStorm",
+    "developerUrl": "https://i.ibb.co.com/CpHWz9q5/460156868-2055238444933283-3867974364082540475-n-1.jpg"
+  },
+  {
+    "id": "25",
+    "title": "Recon Elite",
+    "coverPhoto": "https://i.ibb.co.com/s9BJDVNb/image.png",
+    "category": "FPS",
+    "downloadLink": "https://example.com/reconelite",
+    "description": "Stealth and speed come together in this elite ops shooter.",
+    "ratings": "4.4",
+    "developer": "Recon Studios",
+    "developerUrl": "https://i.ibb.co.com/CpHWz9q5/460156868-2055238444933283-3867974364082540475-n-1.jpg"
+  },
+  {
+    "id": "26",
+    "title": "Empire Siege",
+    "coverPhoto": "https://i.ibb.co.com/5hwHzKrz/coc.webp",
+    "category": "Strategy",
+    "downloadLink": "https://example.com/empiresiege",
+    "description": "Lay siege to kingdoms and build a lasting legacy.",
+    "ratings": "4.2",
+    "developer": "Siege Master",
+    "developerUrl": "https://i.ibb.co.com/1fQ8X3mY/user2-d0f071c5.png"
+  },
+  {
+    "id": "27",
+    "title": "Deadline Drop",
+    "coverPhoto": "https://i.ibb.co.com/5WXJfw93/free.jpg",
+    "category": "Battle Royale",
+    "downloadLink": "https://example.com/deadlinedrop",
+    "description": "Rush into combat and beat the timer before you’re out.",
+    "ratings": "4.3",
+    "developer": "TimeBomb Games",
+    "developerUrl": "https://i.ibb.co.com/G42DHMRm/user3-ea7e55ec.png"
+  },
+  {
+    "id": "28",
+    "title": "Precision Strike",
+    "coverPhoto": "https://i.ibb.co.com/YTYgTDgc/image.jpg",
+    "category": "FPS",
+    "downloadLink": "https://example.com/precisionstrike",
+    "description": "Use sniper rifles and tactical gear to complete missions.",
+    "ratings": "4.6",
+    "developer": "SharpShot",
+    "developerUrl": "https://i.ibb.co.com/7JK4fdH0/user5-d322c5b6.png"
+  },
+  {
+    "id": "29",
+    "title": "Base Commander",
+    "coverPhoto": "https://i.ibb.co.com/8n2n9WVW/gallery-Photo4-8713bad1.png",
+    "category": "Strategy",
+    "downloadLink": "https://example.com/basecommander",
+    "description": "Lead your base to dominance in a futuristic warzone.",
+    "ratings": "4.0",
+    "developer": "BaseOne Studios",
+    "developerUrl": "https://i.ibb.co.com/BH06F0wZ/user6-7aed182c.png"
+  },
+  {
+    "id": "30",
+    "title": "FireDrop Royale",
+    "coverPhoto": "https://i.ibb.co.com/ZpZtT6yS/gallery-Photo6-5a523168.png",
+    "category": "Battle Royale",
+    "downloadLink": "https://example.com/firedroproyale",
+    "description": "Land, fight, and burn through the arena in this fiery royale.",
+    "ratings": "4.5",
+    "developer": "Inferno Games",
+    "developerUrl": "https://i.ibb.co.com/CpHWz9q5/460156868-2055238444933283-3867974364082540475-n-1.jpg"
+  }
+
+
+]
