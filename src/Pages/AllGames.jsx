@@ -3,6 +3,7 @@ import { motion } from "framer-motion";
 import useCustomHook from "./useCustomHook";
 import ProductsCard from "../ components/ProductsCard";
 import Logo from "../assets/react.svg";
+import Loading from "../ components/Loading";
 
 
 const AllGames = () => {
@@ -15,17 +16,7 @@ const AllGames = () => {
 
   if (loading) {
     return (
-      <div className="fixed inset-0 flex flex-col justify-center items-center backdrop-blur-sm bg-black/30 z-50">
-        <img
-          src={Logo}
-          alt="Loading..."
-          className="w-16 h-16 animate-spin mb-4"
-          
-        />
-        <div className="text-blue-600 font-semibold text-lg animate-pulse">
-          Loading Applications...
-        </div>
-      </div>
+    <Loading></Loading>
     );
   }
 

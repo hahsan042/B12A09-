@@ -6,6 +6,10 @@ import Logo from "../assets/react.svg";
 import PopularCard from "../ components/PopularCard";
 import { AuthContext } from "../Context/AuthContext";
 import Newsletter from "../ components/Newsletter";
+import OfferCard from "../ components/OfferCard";
+import BlogCard from "../ components/BlogCard;";
+import Loading from "../ components/Loading";
+
 
 const Home = () => {
   useEffect(() => {
@@ -19,16 +23,7 @@ const Home = () => {
 
   if (loading) {
     return (
-      <div className="fixed inset-0 flex flex-col justify-center items-center backdrop-blur-sm bg-black/20 z-50">
-        <img
-          src={Logo}
-          alt="Loading..."
-          className="w-16 h-16 animate-spin mb-4"
-        />
-        <div className="text-blue-600 font-semibold text-lg animate-pulse">
-          Loading Applications...
-        </div>
-      </div>
+     <Loading></Loading>
     );
   }
 
@@ -72,7 +67,11 @@ const Home = () => {
         ))}
       </div>
     </div>
-  <Newsletter></Newsletter>
+    <BlogCard></BlogCard>
+ <Newsletter></Newsletter>
+ <OfferCard></OfferCard>
+
+
     </>
     
   );

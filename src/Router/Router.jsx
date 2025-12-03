@@ -11,6 +11,9 @@ import PrivateRoute from "../privateRouter/PrivateRoute";
 import NotFound from "../Pages/NotFound";
 import UpdateProfile from "../Pages/UpdateProfile";
 import PasswordForgot from "../Pages/PasswordForgot";
+import OfferDetails from "../ components/OfferDetails";
+import BlogDetails from "../ components/BlogDetails";
+import Blogs from "../Pages/Blogs";
 
 
 export const router = createBrowserRouter([
@@ -54,7 +57,19 @@ export const router = createBrowserRouter([
 {
   path:"/forget-password",
   Component:PasswordForgot,
+},
+{
+  path: "/offer/:id",
+  element: <OfferDetails />,
+},
+{
+  path: "/blogs",
+  element: <Blogs />,
+},
+{ path:"/blog/:id" ,
+  element:<BlogDetails />
 }
+
   ]
   },
 ]);

@@ -1,6 +1,7 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { Link } from 'react-router-dom';
+import { FaFacebookF, FaGithub, FaLinkedinIn } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -41,27 +42,30 @@ const Footer = () => {
                 About
               </NavLink>
             </li>
+            <li>
+              <NavLink to="/blogs" className="text-gray-400 hover:text-cyan-400 transition-colors">
+                Blogs
+              </NavLink>
+            </li>
           </ul>
         </div>
 
-        {/* Socials */}
-        <div className="flex-1">
-          <h3 className="text-lg font-semibold text-white mb-3">Follow Us</h3>
-          <div className="flex gap-4">
-            <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors">
-              <i className="fab fa-facebook-f"></i>
-            </a>
-            <a href="#" className="text-gray-400 hover:text-blue-400 transition-colors">
-              <i className="fab fa-twitter"></i>
-            </a>
-            <a href="#" className="text-gray-400 hover:text-pink-400 transition-colors">
-              <i className="fab fa-instagram"></i>
-            </a>
-            <a href="#" className="text-gray-400 hover:text-cyan-400 transition-colors">
-              <i className="fab fa-discord"></i>
-            </a>
-          </div>
-        </div>
+{/* Socials */}
+<div className="flex-1">
+  <h3 className="text-lg font-semibold text-white mb-3">Follow Us</h3>
+  <div className="flex gap-4">
+    <a href="https://www.facebook.com/hahsan042" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-600 transition-colors">
+      <FaFacebookF size={20} />
+    </a>
+    <a href="https://github.com/hahsan042" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-gray-500 transition-colors">
+      <FaGithub size={20} />
+    </a>
+    <a href="https://linkedin.com/in/md-ahsan-habib-51a41b392" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transition-colors">
+      <FaLinkedinIn size={20} />
+    </a>
+  </div>
+</div>
+
 
         {/* Newsletter */}
         <div className="flex-1">
